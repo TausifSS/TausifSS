@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @TausifSS
-- 👀 I’m interested in Android ;
-- 🌱 I’m currently learning Java,c++;
-- 💞️ I’m looking to collaborate on Android Apps 
-- 📫 How to reach me : Tausif_tss_ @insta
-- 😄 Pronouns: Tausif Shaikh 
-- ⚡ Fun fact: I learn anything fastly but forget also;
-
-<!---
-TausifSS/TausifSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Tausif Shaikh (@TausifSS)
+<br>
+👀 Passionate about: Data Structures and Algorithms<br>
+🌱 Currently mastering: Java & C++<br>
+💼 Seeking: Collaboration on challenging DSA projects<br>
+📫 Connect with me: @Tausif_tss_ on Instagram<br>
+😄 Pronouns: He/Him<br>
+⚡ Fun fact: I’m a fast learner with a knack for picking up new skills quickly, though I sometimes need to revisit them to retain mastery.
