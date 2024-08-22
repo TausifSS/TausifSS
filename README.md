@@ -6,7 +6,7 @@
 <br>
 💼 Seeking: Collaboration on challenging DSA projects
 <br>
-💻 Skills: Proficient in HTML, CSS, and Android Development (learning phase)
+💻 Skills: Proficient in Java, HTML, CSS, and Android Development (learning phase)
 <br>
 📫 Connect with me: @Tausif_tss_ on Instagram
 <br>
